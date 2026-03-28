@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <title>Rugby</title>
+    </head>
+    <body>
+      <main>
+        <h1>RUGBY</h1>
+        <section>
+          <h2>Rugby Argentina</h2>
+          <p>El torneo de la <a href="https://www.urba.org.ar/">U.R.B.A</a> comienza en marzo!</p>
+          <p>Sigue el torneo aca: <a target="_blank" href="https://fixture.urba.org.ar/home">Top 14 </a> para mas informacion </p>
+          <figure>
+          <img src="https://urbaweb-659150f8efd973a5-endpoint.azureedge.net/wp-content/uploads/2026/03/55160917795_21bc0f360f_o-1536x1024.jpg" alt="Hindu vs CASI">
+          <figcaption>Hindu vs CASI</figcaption>
+          </figure>
+        </section>
+        <section>
+          <h3>Te contamos todo</h3>
+          <ul>
+            <li>Nuevo formato</li>
+            <li>Nuevos equipos</li>
+            <li>Nuevos sponsor</li>
+      </main>
+    </body>
+  </html>
